@@ -15,7 +15,7 @@ public class RollDiceUc3 {
 		{
 
 		case 2: 
-			//position=0;
+			position=0;
 			System.out.println("No one play the game");
 			break;
 		case 1: 
